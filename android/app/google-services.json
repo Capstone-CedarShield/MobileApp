@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "764623030223",
+    "project_id": "mobileapp-authentication",
+    "storage_bucket": "mobileapp-authentication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764623030223:android:c261c362c7e32637e4b4ba",
+        "android_client_info": {
+          "package_name": "com.alexgogo.IncidentMobileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764623030223-gh2t32uld356489r331gc56j9h5fe6fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexgogo.IncidentMobileApp",
+            "certificate_hash": "de4b54f8211712d26fc9a50cbc7b320055680685"
+          }
+        },
+        {
+          "client_id": "764623030223-vmkip1k79jvca8sqnbhe2njrc26k5cq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7f4oBbHzxYTfctxJD3TZLiEa6ipl064"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764623030223-vmkip1k79jvca8sqnbhe2njrc26k5cq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
