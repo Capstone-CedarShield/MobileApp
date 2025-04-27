@@ -4,7 +4,7 @@ import MapView, { Marker, PROVIDER_GOOGLE } from "react-native-maps";
 import Geocoder from "react-native-geocoding";
 
 
-Geocoder.init("AIzaSyBXGGBbpCxSdardQw9h_BlN6EwpGgARxTg");
+Geocoder.init("");
 
 const TestMap = memo(({ location, scrollEnabled = true, style }) => {
   const [region, setRegion] = useState(null);
