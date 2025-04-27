@@ -5,7 +5,7 @@ import Geocoder from "react-native-geocoding";
 import api from "../services/api/axiosInstance";
 
 // Initialize the Geocoder with your Google API key
-Geocoder.init("AIzaSyBXGGBbpCxSdardQw9h_BlN6EwpGgARxTg"); 
+Geocoder.init(""); 
 
 const Map = () => {
   // State to hold markers and loading state
